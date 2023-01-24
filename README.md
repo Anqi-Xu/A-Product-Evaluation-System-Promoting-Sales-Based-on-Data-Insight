@@ -1,6 +1,6 @@
 # Research-on-User-Download-Behavior-based-on-Google-Play-App-Data-
 
-After a series of data processing and modeling, our team finally gets a reputation-based sales plan for microwaves, pacifiers and hair dryers to help Sunshine Company improve its market competitiveness.
+Our team gets a reputation-based sales plan for microwaves, pacifiers and hair dryers to help Sunshine Company improve its market competitiveness.
 
 
 First, we do the data-preprocessing, which includes data redundancy processing, word reduction, and index quantification. At the same time, for the convenience of research, we quantify two specific indexes: verified-purchase and vine. Also, in order to achieve the rankings from the text-based reviews, we use TF-IDF (Term Frequency–Inverse Document Frequency) and LSA (Latent Semantic Analysis) methods to deeply mine the customer satisfaction information contained in them and successfully classify the customer reviews.
